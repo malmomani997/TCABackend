@@ -1,6 +1,6 @@
 # TCABackend
-Solution for the Backend Automation 
-Here you will find Records of the automation script while it runs :-
+
+# Here you will find Records of the automation script while it runs :-
 
 # 1 - In this record you will see the add candidate the creation of the candidate happens from the API and I show the creation of that candidate also on frontend 
 
